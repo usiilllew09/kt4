@@ -1,0 +1,160 @@
+@media screen and (max-width: 640px) {
+    .menu{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+    
+    .text{
+        font-size: 25px;
+        font-family: "courier", georgia, serif;
+    }
+    
+    .text1{
+        font-size: 25px;
+        font-family: "courier", georgia, serif;
+    }
+
+    
+    .main{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .ztext{
+        font-size: 35px;
+        margin-top: 60px;
+        text-align: center;
+    }
+    
+    .htext{
+        font-size: 20px;
+        text-align: center;
+        font-family: "helvetica", georgia, serif;
+    }
+    
+    .btext{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 30px;
+        font-family: "woodblock", georgia, serif;
+    }
+
+
+    .basa{
+        display: flex;
+        flex-direction: column;
+        margin-top: 40px;
+        align-items: center;
+        color: white;
+        filter: brightness(50%);
+    }
+
+    .block1{
+        width: 350px;
+        height: 300px;
+        background-image: url(https://img.freepik.com/free-photo/business-people-shaking-hands-together_53876-13391.jpg?ga=GA1.1.1840369064.1725130483&semt=ais_hybrid);
+        background-position: center center;
+        background-size: 500px;
+        font-size: 40px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+        line-height: 80px;
+    }
+
+    .block2{
+        margin-top: 50px;
+        width: 350px;
+        height: 300px;
+        background-image: url(https://img.freepik.com/premium-photo/group-people-are-holding-papers-one-has-blue-graph-it_257043-59620.jpg?ga=GA1.1.1840369064.1725130483&semt=ais_hybrid);
+        background-position: center center;
+        background-size: 500px;
+        font-size: 40px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+        line-height: 80px;
+    }
+
+    .block3{
+        margin-top: 50px;
+        width: 350px;
+        height: 300px;
+        background-image: url(https://img.freepik.com/premium-photo/man-shaking-hands-with-document-that-says-shake-hands_1289061-1734.jpg?ga=GA1.1.1840369064.1725130483&semt=ais_hybrid);
+        background-position: center center;
+        background-size: 500px;
+        font-size: 40px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+        line-height: 80px;
+    }
+
+    .block4{
+        margin-top: 50px;
+        width: 350px;
+        height: 300px;
+        background-image: url(https://img.freepik.com/free-photo/group-business-people-having-meeting_53876-146155.jpg?ga=GA1.1.1840369064.1725130483&semt=ais_hybrid);
+        background-position: center center;
+        background-size: 500px;
+        font-size: 40px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+        line-height: 80px;
+    }
+
+    .block5{
+        margin-top: 50px;
+        width: 350px;
+        height: 300px;
+        background-image: url(https://img.freepik.com/premium-photo/man-suit-is-looking-phone-another-man-is-looking-his-phone_1124223-3279.jpg?ga=GA1.1.1840369064.1725130483&semt=ais_hybrid);
+        background-position: center center;
+        background-size: 500px;
+        font-size: 40px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+        line-height: 80px;
+    }
+
+    .block6{
+        margin-top: 50px;
+        width: 350px;
+        height: 300px;
+        background-image: url(https://img.freepik.com/premium-photo/group-people-are-sitting-table-with-graph-that-saysfinancialon-it_257043-57933.jpg?ga=GA1.1.1840369064.1725130483&semt=ais_hybrid);
+        background-position: center center;
+        background-size: 500px;
+        font-size: 40px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+        line-height: 80px;
+    }
+
+
+    .last{
+        height: 230px;
+        display: flex;
+        flex-direction: column;
+        background-position: center center;
+        background-size: 400px;
+        margin-top: 40px;
+        margin-left: -10px;
+        margin-right: -10px;
+        margin-bottom: -20px;
+        align-items: center;
+        background-color: darkslategray;
+    }
+
+    .ltext1{
+        font-size: 19px;
+        margin-top: 60px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+    }
+
+    .ltext2{
+        font-size: 15px;
+        margin-top: 60px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+    }
+}
